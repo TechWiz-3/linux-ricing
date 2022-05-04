@@ -12,7 +12,7 @@ Resources for beginners learning linux ricing
 
 ## Window Managers
 - [i3wm Jumpstart](https://www.youtube.com/watch?v=j1I63wGcvU4)
-- [i3 Github guide](https://github.com/addy-dclxvi/i3-starterpack
+- [i3 Github guide](https://github.com/addy-dclxvi/i3-starterpack)
 
 ## Themes
 - [Top 10 icon themes](https://linuxiac.com/10-best-and-most-popular-icon-themes-for-linux/)
