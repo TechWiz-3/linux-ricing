@@ -17,6 +17,9 @@ Resources for beginners learning linux ricing
 ## Themes
 - [Top 10 icon themes](https://linuxiac.com/10-best-and-most-popular-icon-themes-for-linux/)
 
+## Favourites
+[Arch-craft Autumn](https://www.reddit.com/r/unixporn/comments/ufiyl7/openbox_autumn/)
+
 ## Github guides and showcases
 - [Dotfiles dump (but cool)](https://github.com/addy-dclxvi/almighty-dotfiles)
 - [Another dot files dump (by the creator of archcraft)](https://github.com/adi1090x/files)(make sure to check out the dynamic wallpaper folder)
