@@ -1,6 +1,9 @@
 # linux-ricing
 Resources for beginners learning linux ricing
 
+## Contents
+[Start with this](##Start with this)
+
 ## Start with this
 [A very simple and very helpful intro](https://thatnixguy.github.io/posts/ricing/)
 
