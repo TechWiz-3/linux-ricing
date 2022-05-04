@@ -2,9 +2,9 @@
 Resources for beginners learning linux ricing
 
 - [linux-ricing](#linux-ricing)
-  - [Start with this](#Start with this)
-  - [Beginner guides/intros](#Beginner guides/intros)
-  - [Window Managers](#Window Managers)
+  - [Start with this](#Start%20with%20this)
+  - [Beginner guides/intros](#Beginner%20guides/intros)
+  - [Window Managers](#Window%20Managers)
 
 ## Start with this
 [A very simple and very helpful intro](https://thatnixguy.github.io/posts/ricing/)
