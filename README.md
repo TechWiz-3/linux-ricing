@@ -3,7 +3,7 @@ Resources for beginners learning linux ricing
 
 - [linux-ricing](#linux-ricing)
   - [Start with this](#Start%20with-this)
-  - [Beginner guides/intros](#Beginner-guides/intros)
+  - [Beginner guides/intros](#beginner-guidesintros)
   - [Window Managers](#Window-Managers)
 
 ## Start with this
