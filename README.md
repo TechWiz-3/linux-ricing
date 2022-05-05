@@ -35,6 +35,7 @@ Resources for beginners learning linux ricing
 - [Dotfiles dump (but cool)](https://github.com/addy-dclxvi/almighty-dotfiles)
 - [Another dot files dump (by the creator of archcraft)](https://github.com/adi1090x/files)(make sure to check out the dynamic wallpaper folder)
 - [Huge dot file dump](https://github.com/creio/dots)
+- [Imgur ubuntu showcase](https://imgur.com/a/hl6y1#W8nJUEg)
 
 ## Youtube
 - [Ricing playlist](https://www.youtube.com/watch?v=_PTp5mh5_vQ&list=PLnbyvmv5ABh6YrpjnJS2EjuJ9livjE-V6)
