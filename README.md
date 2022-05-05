@@ -9,7 +9,8 @@ Resources for beginners learning linux ricing
   - [Favourites](#favourites)
   - [Github guides and showcases](#github-guides-and-showcases)
   - [Youtube](#Youtube)
-  - [XFCE Specifiic](#xfce-specific)
+  - [XFCE Specific](#xfce-specific)
+  - [Is not ricing, is pog](#is-not-ricing-is-pog)
 
 ## Start with this
 [A very simple and very helpful intro](https://thatnixguy.github.io/posts/ricing/)
@@ -59,3 +60,6 @@ Resources for beginners learning linux ricing
 ### Themes
 [Really nice icon theme was unable to use however (it crashed all panels)](https://www.xfce-look.org/p/1715694)
 [XFCE-look website](https://www.xfce-look.org/browse/)
+
+## Is not ricing, is pog
+[Starship and OhMyZSH Installs](https://guinuxbr.com/en/posts/zsh+oh-my-zsh+starship/)
